@@ -29,7 +29,7 @@ public:
 
 private:
     std::deque<TrafficLightPhase> _queue;
-    std::condition_variable _condi;
+    std::condition_variable _cond;
     std::mutex _mutex;
 };
 
@@ -43,7 +43,7 @@ class TrafficLight : public TrafficObject, public std::enable_shared_from_this<T
 {
 public:
     TrafficLight();
-    ~TrafficLight();
+    //~TrafficLight();
     // constructor / desctructor
 
     // getters / setters

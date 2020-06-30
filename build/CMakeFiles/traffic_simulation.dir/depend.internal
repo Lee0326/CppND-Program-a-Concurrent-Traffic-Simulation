@@ -5,17 +5,20 @@ CMakeFiles/traffic_simulation.dir/src/Graphics.cpp.o
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Graphics.cpp
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Graphics.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.h
+ /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
 CMakeFiles/traffic_simulation.dir/src/Intersection.cpp.o
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.cpp
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.h
+ /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Vehicle.h
 CMakeFiles/traffic_simulation.dir/src/Street.cpp.o
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.cpp
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.h
+ /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Vehicle.h
 CMakeFiles/traffic_simulation.dir/src/TrafficLight.cpp.o
@@ -29,12 +32,14 @@ CMakeFiles/traffic_simulation.dir/src/TrafficSimulator-Final.cpp.o
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Graphics.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.h
+ /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficSimulator-Final.cpp
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Vehicle.h
 CMakeFiles/traffic_simulation.dir/src/Vehicle.cpp.o
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Intersection.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Street.h
+ /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficLight.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/TrafficObject.h
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Vehicle.cpp
  /home/colin/Courses/CppND-Program-a-Concurrent-Traffic-Simulation/src/Vehicle.h
